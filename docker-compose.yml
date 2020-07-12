@@ -46,7 +46,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=America/Merida
-      - URL=arido.dev
-      - SUBDOMAINS=www,iot,
+      - URL=iot.arido.dev
+      - SUBDOMAINS=www,
       - VALIDATION=http
       - STAGING=false #optional
