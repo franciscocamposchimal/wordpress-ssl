@@ -49,4 +49,4 @@ services:
       - URL=iot.arido.dev
       - SUBDOMAINS=www,
       - VALIDATION=http
-      - STAGING=true #optional
+      - STAGING=false #optional
